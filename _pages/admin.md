@@ -1,0 +1,7 @@
+---
+title: "Admin page"
+sitemap: false
+permalink: /admin.html
+---
+
+<meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
