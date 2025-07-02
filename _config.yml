@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: zawadidone.nl
-email: hi@zawadidone.nl
 description: Computing
 twitter_username: zawadidone
 github_username: zawadidone
@@ -64,10 +63,6 @@ author:
   twitter: zawadidone
   github: zawadidone
   gitlab: zawadidone
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hi@zawadidone.nl"
 
 social:
   type: Person
